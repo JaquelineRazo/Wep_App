@@ -1,0 +1,10 @@
+com/javamaster/exception/AuthException.class
+com/javamaster/model/UsersRecord.class
+com/javamaster/dao/UsersDAO.class
+com/javamaster/controller/HomeServlet.class
+com/javamaster/JakartaRestConfiguration.class
+com/javamaster/resources/JakartaEE10Resource.class
+com/javamaster/model/UsersModel.class
+com/javamaster/service/UsersService.class
+com/javamaster/config/DBConnectionConfig.class
+com/javamaster/service/UserServiceImpl.class
